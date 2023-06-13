@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Início</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>20/06/2023</td>
     <td>
       <b>Início</b>
       <p>
@@ -39,7 +39,7 @@
         Preparação de ferramentas e para a simulação de entrevista de RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>20/06/2023 e 27/06/2023</td>
     <td>
       <b>Autoconhecimento</b>
       <p>
@@ -69,7 +69,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Até 10/07/2023</td>
     <td>
       <b>Preparação de CV e LinkedIn</b>
       <p>
@@ -118,7 +118,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>18/07/2023 a 28/07/2023</td>
     <td>
       <b>Preparação para entrevista RH</b>
       <p>
