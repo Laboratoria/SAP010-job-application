@@ -38,14 +38,14 @@ As 3 sessões que estão contempladas nessas mentorias são:
   * Sessão de acompanhamento da incorporação do feedback: você deve coordenar
     essa seção diretamente com seu/sua mentor/a e será responsável por
     estabelecer esse contato. Na mensagem de e-mail, você deve colocar em cópia
-    rosimary@laboratoria.la
+    fernanda.ferreira@laboratoria.la
 
 - 1 simulação de entrevista de recursos humanos: você fará essa simulação com
   uma pessoa do setor diferente daquela que lhe deu recomendações sobre seu CV
   e LinkedIn, e será você quem coordenará tudo para que isso aconteça (abaixo,
   deixamos algumas recomendações para você). Fazemos isso para que a
   experiência seja o mais próximo possível da realidade. Na mensagem de e-mail,
-  você deve colocar em cópia rosimary@laboratoria.la
+  você deve colocar em cópia fernanda.ferreira@laboratoria.la
 
 ## Mentorias Tech
 
